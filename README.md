@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kevin Daniel, an incoming student at the University of Waterloo. I'm interested in fullstack development, and currently exploring many 
+- 👋 Hi, I’m Kevin Daniel, a student at the University of Waterloo. I'm interested in fullstack development, and currently exploring many 
 sideprojects to expand my knowledge and skills. 
 - 📫 How to reach me: via linkedin https://www.linkedin.com/in/kevin-daniel-288a131b5/ 
 <!---
