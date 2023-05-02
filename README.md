@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kev-daniell" alt="kev-daniell" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&background=C3080000&width=600&lines=Howdy;I+like+building+things.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&background=C3080000&width=600&lines=Howdy...;I+like+building+things.)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Kevin Daniel, a student at the University of Waterloo. I'm interested in fullstack development, and devops. I'm currently exploring many 
 sideprojects to expand my knowledge and skills. 
