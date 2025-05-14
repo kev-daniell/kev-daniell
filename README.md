@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&background=C3080000&width=600&lines=Howdy...;I+like+building+things.)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m Kevin Daniel, a student at the University of Waterloo. I'm interested in solving hard problems in any domain. Currently interested in distributed systems, security and infrastructure. 
+👋 Hi, I’m Kevin. I'm interested in solving hard problems in any domain. Currently interested in distributed systems, security and infrastructure. 
+
+Currently on a never-ending journey to improve my developer workflow.
 
 ### Things In My Brain: 
 |Typescript|Firebase|Google Cloud|NextJS|JavaScript|React.js|Heroku|Git
